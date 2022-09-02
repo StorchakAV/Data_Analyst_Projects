@@ -1,7 +1,7 @@
 # Взаимодействие пользователей с карточками Яндекс.Дзен
 
 ## Ссылка на дашборд
-https://public.tableau.com/app/profile/anton5141/viz/__16615438741250/_
+https://public.tableau.com/views/__16615438741250/_?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 ## Задача
